@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/SM/Desktop/library/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/SM/Desktop/library/frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/SM/Desktop/library/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\SM\\Desktop\\library\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\SM\\Desktop\\library\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/SM/Desktop/library/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/SM/Desktop/library/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/SM/Desktop/library/frontend/generated/jar-resources",
+  "themeName": "my-app",
+  "clientServiceWorkerSource": "C:\\Users\\SM\\Desktop\\library\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
